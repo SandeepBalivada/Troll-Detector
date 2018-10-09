@@ -28,6 +28,7 @@ int floydwarshall( int graph[n][n])
         if(dist[i][j]>999){
             printf("INF  ");
              printf("    \n");
+             print(" \n");
         }
             -else
             printf("%d  ",dist[i][j]);
