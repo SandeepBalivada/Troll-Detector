@@ -29,6 +29,7 @@ int floydwarshall( int graph[n][n])
             printf("INF  ");
              printf("    \n");
              print(" \n");
+            print(" \n");
         }
             -else
             printf("%d  ",dist[i][j]);
