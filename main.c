@@ -18,7 +18,7 @@ int floydwarshall( int graph[n][n])
 
     }
 
-    printf("The shortest distance between every pair of vertices is : \n");
+    printf("The  shortest distance between every pair of vertices is : \n");
     for(i=0;i<n;i++)
     {
 
