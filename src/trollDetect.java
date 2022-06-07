@@ -6,6 +6,7 @@ public class trollDetect {
 	/**
 	 * @param args
 	 */
+	
 	public static void main(String[] args) {
 		//System.out.println("This is just a demo text being used for trolls");
 		/*int words[]= new int[100];
