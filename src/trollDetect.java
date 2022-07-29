@@ -37,6 +37,7 @@ public class trollDetect {
 			System.out.println("Abusive words that are being tracked are:");
 			for(int i=0;i<totabs;i++)
 				System.out.println(words[i]);
+			
 		}
 		else if(choice==3)
 		{  
